@@ -27,4 +27,4 @@ Spanish (native)
 English (proficiency)
 Catalan (native)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraGutierrezSa)](https://github.com/LauraGutierrezSa/github-readme-stats)
