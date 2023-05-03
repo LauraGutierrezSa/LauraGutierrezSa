@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning backend dev with **Node.js** in [IT ACADEMY](https://www.barcelonactiva.cat/es/itacademy)
 
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
+
 📫 **How to reach me**
 lauragsanahuja@gmail.com
 
@@ -27,4 +31,4 @@ Spanish (native)
 English (proficiency)
 Catalan (native)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraGutierrezSa)](https://github.com/LauraGutierrezSa/github-readme-stats)
+[![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraGutierrezSa)](https://github.com/LauraGutierrezSa/github-readme-stats)
