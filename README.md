@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Laura and I'm a beginner programmer based in Barcelona. 
+### Hi there 👋 My name is Laura and I'm a beginner web developer based in Barcelona. 
 
 <!--
 **LauraGutierrezSa/LauraGutierrezSa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
