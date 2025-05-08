@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Laura and I'm a beginner web developer based in Barcelona. 
+### Hi there 👋 My name is Laura and I'm a software developer based in Barcelona. 
 
 <!--
 **LauraGutierrezSa/LauraGutierrezSa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⚡I was in law field for over a decade and now I'm transitioning to IT field.
+⚡I was in law field for over a decade and now I'm working my way into software development.
 
-🌱 I learned backend dev with **Node.js** in [IT ACADEMY](https://www.barcelonactiva.cat/es/itacademy) and I just completed the full-stack Web Development bootcamp in [ISDI CODERS](https://www.isdicoders.com) where I learnt to use **React** and focus on **clean code** among many other fascinating things.
+🌱 I learned backend dev with **Node.js** in [IT ACADEMY](https://www.barcelonactiva.cat/es/itacademy) and I completed the full-stack Web Development bootcamp in [ISDI CODERS](https://www.isdicoders.com) where I learnt to use **React** and focus on **clean code** among many other fascinating things.
+
+✨I'm currently hired as a full-stack developer for a spanish company, as a junior profile. Learning and absorbing a lot by working shoulder by shoulder with my senior workmates and my own **testing** skills. 
 
 ### My main stack
 
